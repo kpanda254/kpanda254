@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi! 🐼
+My name is Kashyap Panda, and I am a Computer Engineering major at UC Riverside. While my major does have a focus on hardware, I also have a big interest in software development. I also love to use my knowledge to help others learn, and I frequently volunteer at hackathons.
 
+[![Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpanda254&show_icons=true&count_private=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpanda254&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kpanda254/kpanda254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
